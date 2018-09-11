@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RIDER_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../..">
+      <sourceFolder url="file://$MODULE_DIR$/../../Binaries/Microsoft.Windows.Shell.dll" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Build/Binaries/MSBuild.Community.Tasks.dll" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Build/Build.bat" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Build/ModernUI.msbuild" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Build/ModernUI.WPF.nuspec" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../FirstFloor.ModernUI" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../FirstFloor.ModernUI.App" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../FirstFloor.ModernUI.WPF4" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../License.icons.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../License.RelativeAnimatingContentControl.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../License.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../ReadMe.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Shared" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/../../FirstFloor.ModernUI.App/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../FirstFloor.ModernUI.App/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../FirstFloor.ModernUI.WPF4/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../FirstFloor.ModernUI.WPF4/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../FirstFloor.ModernUI/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../FirstFloor.ModernUI/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../packages" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
